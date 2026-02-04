@@ -416,6 +416,10 @@ padding:0px 80px;
     height: 100%;
     gap: 10px;
 }
+.container4 :hover{
+    background-color: #25231c;
+    cursor: pointer;
+}
 .highlight-card {
     background-color: #201e18;
     height: 33%;
