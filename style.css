@@ -364,36 +364,40 @@ padding:0px 80px;
     color: rgb(242, 77, 17);
     font-size: 16px;
 }
-
+.joinus {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--secondary-color);
+    padding: 20px;
+    margin-top: 130px;
+    border-radius: 6px;
+}
 .jointext {
-    width: 37vw;
+    width: 25vw;
+    margin-bottom: 130px;
 }
 
 .join-heading{
-    font-size: 37px;
+    font-size: 22px;
     margin-bottom: 20px;
-    color: rgb(224, 221, 221);
+    color: rgb(189, 187, 187);
     margin-top: 140px;
 }
 .join-btn{
-    border: 0.5px solid rgb(154, 151, 151);
-    padding: 14px 20px;
-    border-radius: 25px;
-    background-color: rgb(235, 234, 234);
-    color: black;
-    font-size: 16px;
-    font-weight: 100;
+    text-decoration: none;
+    color: rgb(242, 77, 17);
+    font-size: 17px;
     text-align: center;
 }
 .join-btn:hover{
-    background-color: #bdbcbc;
+    color: rgb(151, 49, 12);
     cursor:pointer;
 }
 .joinus img{
-    width: 100%;
+    width: 65%;
     height: auto;
-    margin-top: 50px;
-    border-radius: 7px;
+    border-radius: 4px;
 }
 
 .highlights {
