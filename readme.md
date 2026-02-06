@@ -7,17 +7,19 @@ A modern **HTML & CSS clone of the Cursor landing page**, built to practice dark
 ## 🚀 Live Demo
 
 🔗 **Deployed Link:**  
-https://your-deployed-link-here.vercel.app
+https://cursor-html-css.vercel.app/
 
 ---
 
 ## 🧩 Sections Recreated
 
 - Header / Navigation bar
-- Hero section with gradient text
+- Hero section with cta
+- "Trusted By" section
 - Product highlights
 - Feature grid
-- Call-to-action section
+- Review section
+- Recent highlights
 - Footer
 
 ---
@@ -28,7 +30,6 @@ https://your-deployed-link-here.vercel.app
 - **CSS3** – Styling and theming
 - **Flexbox** – Layout alignment
 - **CSS Grid** – Feature layouts
-- **Google Fonts** – Typography
 - **Vercel** – Deployment
 
 > ⚠️ Built using **only HTML and CSS** — no JavaScript.
@@ -38,21 +39,48 @@ https://your-deployed-link-here.vercel.app
 ## 🎨 Fonts and Colors Used
 
 ### Fonts
-- Primary: `Inter`, sans-serif
-- Fallback: `system-ui`
+- Primary: CursorGothic, "CursorGothic Fallback", system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif
 
 ### Colors
 | Purpose | Color |
 |------|------|
-| Background | `#0b0f19` |
-| Primary Text | `#ffffff` |
-| Secondary Text | `#9ca3af` |
-| Accent Gradient | `#6366f1 → #22d3ee` |
-| Borders | `#1f2937` |
+| Background | `#111` |
+| Primary Text | `#c4c3c3` |
+| Secondary Text | `#a8350b` |
+| Hover | `#211f17` |
 
 ---
 
 ## 📸 Screenshots
 
-![Hero Section](screenshots/hero.png)
-![Features Section](screenshots/features.png)
+- Header / Navigation bar
+
+![alt text](/resources/navs.png)
+
+
+- Hero section with cta
+
+![alt text](/resources/heros.png)
+
+
+- "Trusted By" section
+
+![alt text](/resources/trusts.png)
+
+
+- Reviews 
+
+![alt text](/resources/revs.png)
+
+
+- Product highlights
+
+![alt text](/resources/pros.png)
+
+
+- Footer
+
+![alt text](/resources/foots.png)
+
+
+

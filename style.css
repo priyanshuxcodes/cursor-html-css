@@ -6,10 +6,10 @@
 }
 
 .link-color{
-    color: orangered;
+    color: rgb(249, 70, 5);
 }
 .link-color:hover{
-    color: rgb(168, 53, 11);
+    color: #a8350b;
 }
 *{
     margin: 0;
