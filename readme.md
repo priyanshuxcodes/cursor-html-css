@@ -1,11 +1,3 @@
-
----
-
----
-
-## 📄 README.md — Cursor Clone (HTML & CSS)
-
-```md
 # Cursor Landing Page Clone ⚡
 
 A modern **HTML & CSS clone of the Cursor landing page**, built to practice dark-theme UI design, gradients, and responsive layouts — without JavaScript.
@@ -62,6 +54,5 @@ https://your-deployed-link-here.vercel.app
 
 ## 📸 Screenshots
 
-```md
 ![Hero Section](screenshots/hero.png)
 ![Features Section](screenshots/features.png)
